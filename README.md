@@ -2,7 +2,7 @@
 
 This project aims to build a simple frontend using Vue.js for our node.js todo's backend. This project is using Javascript's events in order to trigger hot-reloading. No Vuex here :)
 
-[screenshot]:https://ibb.co/8D88C7L "Screenshot"
+![Screenshot](https://ibb.co/8D88C7L)
 
 
 ## Project setup
