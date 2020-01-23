@@ -1,9 +1,16 @@
-# todo_client
+# Todo Vue.js Client
+
+This project aims to build a simple frontend using Vue.js for our node.js todo's backend. This project is using Javascript's events in order to trigger hot-reloading. No Vuex here :)
+
+[screenshot]:https://ibb.co/8D88C7L "Screenshot"
+
 
 ## Project setup
 ```
 yarn install
 ```
+
+Don't forget to configure your local endpoint (url and port) in the config file located at src/config/config.js 
 
 ### Compiles and hot-reloads for development
 ```
@@ -20,5 +27,6 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Thanks
+
+This project uses Ant design from vue-antd repo. 
